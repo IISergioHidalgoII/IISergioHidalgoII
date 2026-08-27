@@ -1,4 +1,4 @@
- Hola, soy Sergio Hidalgo 
+# Hola, soy Sergio Hidalgo 
 
 Estudiante de Analista Programador en etapa de práctica profesional, con interés en desarrollo de software, soporte TI y administración básica de sistemas.
 
