@@ -64,6 +64,6 @@ Repositorio principal donde organizo mis proyectos académicos y actividades de 
 ## Contacto
 
 * **Ubicación:** Los Ángeles, Chile
-* **Linkedin** [Sergio Andrés Hidalgo Albornoz](https://www.linkedin.com/in/sergio-andrés-hidalgo-albornoz-266460414/)
+* **LinkedIn** [Sergio Andrés Hidalgo Albornoz](https://www.linkedin.com/in/sergio-andrés-hidalgo-albornoz-266460414/)
 * **Correo:** [sergioaha2003.dev@gmail.com](mailto:sergioaha2003.dev@gmail.com)
 
